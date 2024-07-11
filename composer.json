@@ -1,0 +1,14 @@
+{
+    "name": "samhernandez/twig-server",
+    "description": "A simple Twig development environment",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TwigServer\\": "lib/"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
